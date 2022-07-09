@@ -1,6 +1,6 @@
 # flutter_ecommerce
 
-A new Flutter project.
+A simple e-commerce Flutter app using Flutter Riverpod as statement, Dio package for Http requests and Hive Database for locally storing the data.
 
 ## Getting Started
 
